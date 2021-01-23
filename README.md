@@ -4,9 +4,9 @@ This repository contains a series of notebooks showcasing different approaches t
 ,from classic PID control to RL.
 
 ## Dependencies
+Developed and tested using Python 3.6. Of course use [jupyter](https://jupyter.org/install) to visualize these notebooks.
 
-All a _pip_ away 
-
+* [gym-notebook-wrapper](https://pypi.org/project/gym-notebook-wrapper/). This enables rendering gym envs inside jupyter notebooks
 * [simple-pid](https://pypi.org/project/simple-pid/)
 * [scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_control_system_advanced.html)
 * [NumPy](https://pypi.org/search/?q=numpy)
